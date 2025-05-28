@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=2978602,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=1280x720,FRAME-RATE=29.970
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_2M.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1559699,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=1280x720,FRAME-RATE=29.970
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=992139,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=640x360,FRAME-RATE=29.970
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_600k.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=294786,CODECS="avc1.4d401f,mp4a.40.5",RESOLUTION=320x180,FRAME-RATE=29.970
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_200k.m3u8
