@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Spanish",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="es"
+#EXT-X-STREAM-INF:BANDWIDTH=1203012,CODECS="avc1.66.31,mp4a.40.2",RESOLUTION=640x360,AUDIO="audio"
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=576784,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=462x260,AUDIO="audio"
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/360p/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=48128,CODECS="mp4a.40.2",AUDIO="audio"
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/audio/chunklist.m3u8
